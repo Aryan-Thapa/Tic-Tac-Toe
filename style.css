@@ -203,12 +203,13 @@ background-image: linear-gradient(147deg, #d4ff3b 0%, #82ff25 74%);
     }
     .box{
         height: 6.5rem;
-        width: 6.5rem;
+        width: 5.5rem;
     }
     .msgcontainer{
         width: 100%;
     }
     #msg{
         height: 3rem;
+        font-size:1.6rem;
     }
 }
